@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milan7vce - aka Raf
 - 👀 I’m interested in pursuing a career in a tech/fintech startup
-- 🌱 I’m currently learning python programming language
+- 🌱 I’m currently developing an Algo-Trading model.
 - 💞️ I’m looking to collaborate on any kind of project linked with the tech/fintech world
 - 📫 How to reach me: mail rafbel12@gmail.com
 
